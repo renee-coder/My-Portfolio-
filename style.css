@@ -1,0 +1,273 @@
+body {
+    padding-top: 850px;
+    padding-left: 1px;
+    background-color: ;
+
+}
+
+.profile {
+    width: 350px;
+    margin-bottom: 50px;
+}
+
+#home {
+    position: absolute;
+    overflow: hidden;
+    height: 800px;
+    color: floralwhite;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.83;
+    background: linear-gradient(#6200a3 0%, #ed0581 100%);
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+
+}
+
+#one {
+    padding-top: 100px;
+    padding-left: 50px;
+    width: 550px;
+
+}
+
+#homeOne {
+    padding-top: 100px;
+    padding-right: 100px;
+    font-family: 'Fredoka One', cursive;
+    font-size: 40px;
+}
+
+#homeTwo {
+    padding-right: 100px;
+    color: black;
+    font-family: 'Righteous', cursive;
+    font-size: 30px;
+}
+
+#homeThree {
+    padding-right: 100px;
+    font-family: 'Fredoka One', cursive;
+    font-size: 55px;
+}
+
+.menu {
+    list-style: none;
+    background: rgba(255, 255, 255, 0.85);
+    position: fixed;
+    top: 10px;
+    z-index: 10;
+    cursor: pointer;
+    width: 82%;
+    margin-top: 0px;
+    padding-right: 200px;
+    text-align: center;
+    align-content: center;
+    padding-right: 100px;
+    margin-left: 130px;
+
+
+}
+
+.links {
+    color: white;
+    padding-right: 33px;
+    font-family: 'Lilita One', cursive;
+    font-size: 25px;
+    display: inline;
+    padding-left: 33px;
+
+}
+
+.links:hover {
+    background-color: white;
+    font-family: 'Spinnaker', sans-serif;
+    font-size: 25px;
+    text-decoration: underline;
+    color: black;
+}
+
+#hr1 {
+    width: 50%;
+}
+
+#hr2 {
+    width: 40%;
+    color: black;
+}
+
+#aboutMe {
+    padding-top: 100px;
+    font-family: 'Patua One', cursive;
+    font-size: 40px;
+    color: deepskyblue;
+    padding-left: 40px;
+    
+}
+
+#paragraph {
+    padding-left: 40px;
+    font-family: 'Bellota', cursive;
+    width: 700px;
+    font-size: 20px;
+    color: white;
+}
+
+#two {
+    padding-top: 100px;
+    padding-right: 100px;
+    width: 550px;
+}
+
+#first {
+    width: 50%;
+    color: black;
+}
+
+#accomp {
+    font-family: 'Sigmar One', cursive;
+    padding-left: 40px;
+    font-size: 30px;
+    color: darkorange;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #000;
+}
+
+
+#point {
+    padding-left: 60px;
+    font-size: 20px;
+    font-family: 'Text Me One', sans-serif;
+    color:navajowhite;
+    text-shadow: -1px -1px 0 #fff;
+}
+
+#Projects {
+    text-align: center;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 35px;
+    color: darkorange;
+
+}
+
+#Pro1 {
+    
+ border-spacing: 100px;   
+}
+
+
+#three {
+    border: solid;
+    border-color: gainsboro;
+    background-color: #020d61;
+}
+
+#link1 {
+    font-size: 30px;
+    text-decoration: none;
+    color: #F6C244;
+    background: #313552;
+    border-radius: 0.5rem;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-shadow: #F6C244;
+    font-family: 'Peralta', cursive;
+
+}
+
+img:hover {
+    transform: scale(0.9);
+    padding:15px;
+}
+
+#thunkable {
+    font-family: 'Englebert', sans-serif;
+    background-color: cadetblue;
+    border: solid;
+    border-color: gainsboro;
+    border-radius: 0.5rem;
+     padding-right: 25px;
+    padding-left: 25px;
+    padding-bottom: 10px;
+    padding-top: 15px;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+}
+#contact {
+    background: linear-gradient(to right, orange 0%, #D21F3C 50%, #d9007e 100%);
+    padding-bottom: 10px;
+}
+.contact_1 a {
+    color: white;
+    text-shadow: none;
+}
+
+.contact_1 h3 {
+    display: inline;
+}
+
+#contact iframe {
+    width: 100%;
+}
+
+#jaipur{
+    text-align: center;
+    font-family: 'Peralta', cursive;
+    padding-top: 10px;
+    color: aliceblue;
+}
+#about{
+    background: linear-gradient(to top, #020670 0%, #005AA7 50%);
+    border-radius: 3rem;
+    padding-bottom: 10px;
+    margin: 10px;
+}    
+
+#projectsThunk{
+    
+   
+    border-radius: 5rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px;
+}
+
+#websites{
+    border-radius: 5rem;
+    padding-left: 40px;
+    padding-right: 40px;
+    margin: 10px;
+}
+#video{
+      text-align: center;
+    font-family: 'Baloo Thambi 2', cursive;
+    font-size: 35px;
+    color: #ffae00;
+    background-color:#005AA7;
+    border-radius: 1rem;
+}
+#appClick{
+    font-family: 'MuseoModerno', cursive;
+
+}
+#model {
+ 
+    font-family: 'Patua One', cursive;
+    font-size: 40px;
+    color:darkblue;
+    padding-left: 40px;
+    
+}
+#myCarousel{
+    background-color: crimson;
+}
+#myCarousel img{
+    height: 300px;
+    margin-top: 35px;
+}
